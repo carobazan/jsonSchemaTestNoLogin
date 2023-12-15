@@ -1,0 +1,10 @@
+{
+  "main": "jsonSchemaTestNoLogin.yaml",
+  "name": "jsonSchemaTestNoLogin",
+  "classifier": "oas",
+  "apiVersion": "v1",
+  "descriptorVersion": "1.0.0",
+  "groupId": null,
+  "assetId": "jsonSchemaTestNoLogin",
+  "version": "1.0.0"
+}
